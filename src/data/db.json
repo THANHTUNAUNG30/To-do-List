@@ -1,0 +1,33 @@
+{
+  "todolist": [
+    {
+      "id": "2",
+      "message": "Go to work",
+      "status": false
+    },
+    {
+      "id": "3",
+      "message": "Take a break",
+      "status": false
+    },
+    {
+      "id": "49f7d817-13b4-520a-95d7-48cfd5421eb5",
+      "message": "He",
+      "status": false
+    }
+  ],
+  "people": [
+    {
+      "id": "user1",
+      "name": "Than Htun Aung"
+    },
+    {
+      "id": "user2",
+      "name": "Ei Zun Thae"
+    },
+    {
+      "id": "user3",
+      "name": "Hanna Ki"
+    }
+  ]
+}
